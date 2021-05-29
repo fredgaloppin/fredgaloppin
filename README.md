@@ -27,7 +27,8 @@ WORK IN PROGRESS
 <img align="left" alt="Heroku" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKWh6WVL_GbOx7gn03ia9JFaplrdXksdLX1w&usqp=CAU" />
 <img align="left" alt="Docker" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTai6fO9PKg20-B8psyaJA7rSBO6Asu2m5ug&usqp=CAU" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" width="35px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" width="35px"><br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" width="35px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg"width="35px">  <br />
 
  ## Soft skills 
 <!--
