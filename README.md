@@ -14,7 +14,8 @@ WORK IN PROGRESS
 <img align="left" alt="PHP" width="40px" src="https://multarte.com.br/wp-content/uploads/2015/07/php1.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original.svg" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" width="35px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">   
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" width="35px">
 
 ## Tools
 
