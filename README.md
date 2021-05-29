@@ -16,14 +16,6 @@ WORK IN PROGRESS
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" width="35px">
 
 
-## interests/hobbies:   
-
-Cartography enthousiast 🧭📐🗺    
-ultimate 'frisbee' player 🥏 
-
-
-
-
 ## Tools
 
 <img align="left" alt="Linux" width="40px" src="https://ekladata.com/OaWEOS-KYMWqb0GtA16wDCIiCSM.png" />
@@ -35,22 +27,27 @@ ultimate 'frisbee' player 🥏
 <img align="left" alt="Docker" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTai6fO9PKg20-B8psyaJA7rSBO6Asu2m5ug&usqp=CAU" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" width="35px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" width="35px"><br />
- 
+
  ## Soft skills 
 <!--
- - Stress resistant
  - Change esthusiast
  - Team player
  - Reliable
  - Challenge seeker
  - Solution oriented
+-->
+## interests/hobbies:   
+
+Cartography enthousiast 🧭📐🗺    
+ultimate 'frisbee' player 🥏 
 
 
 
+<!--
 ## You can reach me any time :alarm_clock: ...
 
 
-##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
+
 
 ##### :point_right:Linkedin Profile [Click here](https://www.linkedin.com/in/aleksandra-slowik-dev/)
 <a href="https://linkedin.com/in/nicolas-denoel">
