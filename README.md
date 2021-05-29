@@ -6,6 +6,8 @@ Recently, I started a new path as a software developer.
 
 ## Skills 
 
+|-----------|----------------------------------------------------------------|----------------------------------------------------------|--------------------------------|
+--------------------------------| --------------------------------| 
 | **Front** | <img height="32" width="32" src="./img/HTML5_logo.svg" />      | <img height="32" width="32" src="./img/CSS3_logo.svg" />       | <img height="32" width="32" src="./img/JavaScript_logo.svg" /> | <img height="32" width="32" src="./img/Typescript_logo_2020.svg" /> | <img height="32" width="32" src="./img/React-icon.svg" />      |
 | **Back**  | <img height="32" width="32" src="./img/Python_logo.svg" />      | <img height="32" width="32" src="./img/Node.js min_logo.svg" /> | <img height="32" width="32" src="./img/MongoDB-min Logo.svg" /> | <img height="32" width="32" src="./img/PHP-logo.svg" />         | <img height="32" width="32" src="./img/MySQL min.svg" />       |
 | **Tool**  | <img height="32" width="32" src="./img/VSC icon.svg" /> | <img height="32" width="32" src="./img/Git icon.svg" />              |
@@ -35,5 +37,5 @@ Recently, I started a new path as a software developer.
 ## How to reach me 
 
 -   [:mailbox:](mailto:fredgaloppin@gmail.com)
--   [<img height="32" width="32" src="./img/linkedin.svg" />](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ricgaloppin/) 
+-   [<img height="32" width="32" src="./img/LinkedIn min_Logo.svg" />](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ricgaloppin/) 
 
