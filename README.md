@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fred.   
           
-🌱 I’m currently learning as junior web developper [@BeCode.org](https://becode.org/).
+🌱 I’m currently learning as a junior web developer [@BeCode.org](https://becode.org/).
 I previously worked as draftman in an building dpt, as landsurveyor, and others.
 Recently, I started a new path as a software developer.
 
